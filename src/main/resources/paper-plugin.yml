@@ -1,0 +1,6 @@
+name: 3arth4ck-Plugin
+version: '$version'
+
+main: com.earth4ck.Earth4ck
+api-version: '1.21.11'
+load: STARTUP
